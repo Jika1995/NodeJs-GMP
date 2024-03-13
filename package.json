@@ -4,6 +4,7 @@
   "description": "Global Mentoring Program - Practical Task 2",
   "main": "activityMonitor.js",
   "scripts": {
+    "start": "node activityMonitor.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
